@@ -1,0 +1,30 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f3f3f3;
+}
+
+#odin-recipes {
+  text-align: center;
+}
+
+#odin-recipes-links {
+  text-align: center;
+  list-style: none;
+}
+
+#odin-recipes-links a {
+  color: blueviolet;
+}
+
+#odin-recipes-links a:hover {
+  color: darkorange;
+}
+
+.recipe-name {
+  text-align: center;
+}
+
+.images {
+  height: auto;
+  width: 500px;
+}
